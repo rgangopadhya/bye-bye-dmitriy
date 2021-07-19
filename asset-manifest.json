@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bye-bye-dmitriy/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/bye-bye-dmitriy/static/js/main.9dab7cb4.chunk.js",
-    "main.js.map": "/bye-bye-dmitriy/static/js/main.9dab7cb4.chunk.js.map",
+    "main.css": "/bye-bye-dmitriy/static/css/main.7e575129.chunk.css",
+    "main.js": "/bye-bye-dmitriy/static/js/main.9286b919.chunk.js",
+    "main.js.map": "/bye-bye-dmitriy/static/js/main.9286b919.chunk.js.map",
     "runtime-main.js": "/bye-bye-dmitriy/static/js/runtime-main.ec835da0.js",
     "runtime-main.js.map": "/bye-bye-dmitriy/static/js/runtime-main.ec835da0.js.map",
     "static/js/2.1b1a4519.chunk.js": "/bye-bye-dmitriy/static/js/2.1b1a4519.chunk.js",
@@ -10,19 +10,21 @@
     "static/js/3.fb5729f2.chunk.js": "/bye-bye-dmitriy/static/js/3.fb5729f2.chunk.js",
     "static/js/3.fb5729f2.chunk.js.map": "/bye-bye-dmitriy/static/js/3.fb5729f2.chunk.js.map",
     "index.html": "/bye-bye-dmitriy/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/bye-bye-dmitriy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.7e575129.chunk.css.map": "/bye-bye-dmitriy/static/css/main.7e575129.chunk.css.map",
     "static/js/2.1b1a4519.chunk.js.LICENSE.txt": "/bye-bye-dmitriy/static/js/2.1b1a4519.chunk.js.LICENSE.txt",
     "static/media/box-1-raw.ba89f368.jpg": "/bye-bye-dmitriy/static/media/box-1-raw.ba89f368.jpg",
     "static/media/box-2-raw.12d4863c.jpg": "/bye-bye-dmitriy/static/media/box-2-raw.12d4863c.jpg",
     "static/media/box-3-raw.c2194245.png": "/bye-bye-dmitriy/static/media/box-3-raw.c2194245.png",
     "static/media/box-4-raw.fc69f154.jpg": "/bye-bye-dmitriy/static/media/box-4-raw.fc69f154.jpg",
+    "static/media/box-5-raw.fddc319f.jpg": "/bye-bye-dmitriy/static/media/box-5-raw.fddc319f.jpg",
+    "static/media/box-6-raw.9724e43c.jpg": "/bye-bye-dmitriy/static/media/box-6-raw.9724e43c.jpg",
     "static/media/logo.6ce24c58.svg": "/bye-bye-dmitriy/static/media/logo.6ce24c58.svg",
-    "static/media/wall.6f89ab1e.jpeg": "/bye-bye-dmitriy/static/media/wall.6f89ab1e.jpeg"
+    "static/media/remix-bg-sml.216b19fc.png": "/bye-bye-dmitriy/static/media/remix-bg-sml.216b19fc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ec835da0.js",
     "static/js/2.1b1a4519.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9dab7cb4.chunk.js"
+    "static/css/main.7e575129.chunk.css",
+    "static/js/main.9286b919.chunk.js"
   ]
 }
