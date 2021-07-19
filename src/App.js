@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import remixBg from './remix-bg.png';
+import remixBg from './remix-bg-sml.png';
 import box1 from './box-1-raw.jpg';
 import box2 from './box-2-raw.jpg';
 import box3 from './box-3-raw.png';
