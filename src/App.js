@@ -120,7 +120,7 @@ function getBox() {
 
 function App() {
   return (
-    <div className="App" style={{backgroundImage: `url(${remixBg})`, height: "100vh", backgroundSize: "cover", backgroundRepeat: "no-repeat", display: "flex", alignItems: "end", justifyContent: "center"}}>
+    <div className="App" style={{backgroundImage: `url(${remixBg})`, height: "100vh", backgroundSize: "cover", backgroundRepeat: "no-repeat", display: "flex", alignItems: "flex-end", justifyContent: "center"}}>
       <div style={{display: "flex", flexDirection: "row", width: "50vw", flexWrap: "wrap-reverse"}}>
           {messages.map((message, index) => (
             <>
