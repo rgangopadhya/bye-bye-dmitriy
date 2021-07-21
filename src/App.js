@@ -93,6 +93,18 @@ const messages = [
   {
     name: "Janice",
     text: "Dmitriy, thank you for bringing your thoughtfulness and passion to Remix. You've contributed so much and you will be missed, but I'm excited to see where your next adventure takes you. Best of luck! ",
+  },
+  {
+    name: "Катя",
+    text: "Дмитрий! Спасибо тебе за все то, что ты сделал для Remix, для транспортных департаментов и для тех неводящих и невелосепедных людей которым это все так помогает. На радость Сачину, пишу это сообщение на русском. Желаю успеть прочесть много классных книг за неделю и провести классно время с семьей. Удачи!",
+  },
+  {
+    name: "Sachin",
+    text: "Dmitriy! It's been great working with you these last three years! Thank you for being super approachable and helpful in the #eng-help channel. Good luck at your next job!",
+  },
+  {
+    name: "Austin",
+    text: "Although we didn't get the chance to meet in person, I enjoyed getting to briefly work together, and your deep care for Remix is obvious in the artifacts and legacy you leave behind. Thanks for being a wonderful, kind coworker, and I look forward to your journey ahead!",
   }
 ];
 
